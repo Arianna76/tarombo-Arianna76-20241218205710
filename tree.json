@@ -36,6 +36,11 @@
           "date": "31 DEC 1798",
           "place": "Gomorra",
           "tag": "BIRT"
+        },
+        {
+          "date": "2099",
+          "place": "Firenze",
+          "tag": "DEAT"
         }
       ],
       "media": [
