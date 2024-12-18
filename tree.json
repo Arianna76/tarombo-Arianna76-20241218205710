@@ -1,0 +1,48 @@
+{
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "20:53:21",
+      "value": "18 DEC 2024"
+    },
+    "file": "2.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "English",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.5 (0b354a0)"
+    }
+  },
+  "people": [
+    {
+      "id": "I1*2069e22a-3dcb-4d37-b60e-278eba47d8bc",
+      "names": [
+        {
+          "value": "Gigi /Controgigi/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "1798",
+          "place": "Gomorra",
+          "tag": "BIRT"
+        },
+        {
+          "date": "ABT today",
+          "place": "Giorno Fugace",
+          "tag": "DEAT"
+        }
+      ]
+    }
+  ]
+}
